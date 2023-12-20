@@ -9,15 +9,15 @@
 6. lora_installer.json          -- Mobile app
 7. lora_install_history.json    -- Web dashbaord
 
-##Database import
+## Database import
 ![alt text](https://github.com/industrialinternet/lora_installer/blob/main/import_db_1.png "import")
 
-###Import install_log CSV 
+### Import install_log CSV 
 ![alt text](https://github.com/industrialinternet/lora_installer/blob/main/install_log_import.png "import install log csv")
 ### set primary key
 ![alt text](https://github.com/industrialinternet/lora_installer/blob/main/install_log_import.png "import install log csv")
 
-I###mport joins and sends CSV
+### Import joins and sends CSV
 ![alt text](https://github.com/industrialinternet/lora_installer/blob/main/install_log_import.png "import install log csv")
 
 
