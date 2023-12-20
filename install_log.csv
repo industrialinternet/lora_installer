@@ -1,0 +1,4 @@
+id,jobID,devEUI,devSerialNo,nfcReading,notes,lat,lon,imageA,imageB,other,installDate,deviceType,deviceManufacture,installLocation
+1,80001,AABBCCDDEEFF0011,SYYWWNNNNNN,"{
+  ""type"": ""json""
+}",notes,51.75930276,-0.330584273,null,null,other,2023-12-19 08:48:33.534660834,ERS,Elsys,null
