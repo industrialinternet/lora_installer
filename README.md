@@ -6,6 +6,6 @@
 4. joins_and_sends.csv
 
 5. Create two apps from 
-6 lora_installer.json          -- Mobile app
-7 lora_install_history.json    -- Web dashbaord
+6. lora_installer.json          -- Mobile app
+7. lora_install_history.json    -- Web dashbaord
 
