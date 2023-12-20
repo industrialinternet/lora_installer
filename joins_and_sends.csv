@@ -1,2 +1,0 @@
-device_id,device_name,device_type,status,dev_eui,joined_at,sent_at,frame_count,rssi,snr,gateway_id,sf
-1,null,null,null,AABBCCDDEEFF0011,2023-12-19 08:48:33.534660834,2023-12-19 09:58:33.534660834,1,-120,-5,null,7
