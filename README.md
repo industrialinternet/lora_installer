@@ -19,7 +19,7 @@ All field default to TEXT some need to be INT4 and TimnestampZ
 
 ### Import joins and sends CSV
 
-![alt text](https://github.com/industrialinternet/lora_installer/blob/main/install_log_import.png "import install log csv")
+![alt text](https://github.com/industrialinternet/lora_installer/blob/main/joins_and_sends_1.png "import joins_and_sends csv")
 
 
 
