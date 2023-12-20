@@ -10,6 +10,7 @@
 7.  **lora_install_history.json**    -- Web dashbaord
 
 ## Database import
+All field default to TEXT some need to be INT4 and TimnestampZ
 ![alt text](https://github.com/industrialinternet/lora_installer/blob/main/import_db_1.png "import")
 
 ### Import install_log CSV 
