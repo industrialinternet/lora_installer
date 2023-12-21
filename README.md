@@ -21,6 +21,7 @@ All field default to TEXT some need to be INT4 and TimnestampZ
 
 ![alt text](https://github.com/industrialinternet/lora_installer/blob/main/joins_and_sends_1.png "import joins_and_sends csv")
 
-
-
+### SQL update statement for setting joned and sent states 
+UPDATE joins_and_sends SET status='joined', joined_at='2023-12-19 08:48:33.534660834' WHERE dev_eui='AABBCCDDEEFF0011';
+UPDATE joins_and_sends SET status='sent', sent_at='2023-12-19 08:54:23.534660834' WHERE dev_eui='AABBCCDDEEFF0011';
 
